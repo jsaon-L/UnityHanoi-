@@ -1,5 +1,8 @@
 # UnityHanoi-
 Unity 制作自动还原汉诺塔
+
+`运行按回车`
+
 使用插件 DoTween Loom
 
 ![效果](./hanoi.gif)
